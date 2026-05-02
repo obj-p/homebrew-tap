@@ -2,10 +2,10 @@ class Previewsmcp < Formula
   desc "SwiftUI preview renderer with MCP server for AI-driven UI development"
   homepage "https://github.com/obj-p/PreviewsMCP"
   license "MIT"
-  version "0.12.2"
+  version "0.13.0"
 
-  url "https://github.com/obj-p/PreviewsMCP/releases/download/v0.12.2/previewsmcp-0.12.2-darwin-arm64.tar.gz"
-  sha256 "e2db7a23fd2c78e2f5d506c689f1f572bb13337d2ca895894ec96e786c02e4c0"
+  url "https://github.com/obj-p/PreviewsMCP/releases/download/v0.13.0/previewsmcp-0.13.0-darwin-arm64.tar.gz"
+  sha256 "f5a8a20cdd17d4ca8bc0a9149679f7472c27f8bfd33b322a1fb56f703ba31ba8"
 
   depends_on :macos
 
